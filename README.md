@@ -1,6 +1,4 @@
-# react-saas-analytics
-A scalable React-based SaaS analytics dashboard with authentication, role-based access, real-time updates, and performance-optimized UI.
-# React SaaS Analytics Dashboard
+React SaaS Analytics Dashboard
 
 A scalable React-based SaaS analytics dashboard with authentication, role-based access, real-time updates, and interactive data visualization.
 
@@ -35,9 +33,6 @@ git clone <repo-link>
 cd project-name
 npm install
 npm start
-
-## 📸 Screenshots
-(Add images here)
 
 ## 🌐 Live Demo
 http://localhost:3000
