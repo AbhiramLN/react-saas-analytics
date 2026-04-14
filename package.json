@@ -1,0 +1,44 @@
+{
+  "name": "react-saas-analytics",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^6.8.0",
+    "recharts": "^2.8.0"
+  },
+  "devDependencies": {
+    "@testing-library/jest-dom": "^5.16.4",
+    "@testing-library/react": "^13.4.0",
+    "@testing-library/user-event": "^14.4.3",
+    "react-scripts": "5.0.1",
+    "web-vitals": "^2.1.4"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "description": "A modern, feature-rich SaaS analytics dashboard built with React. Features include dark/light theme switching, role-based access control, real-time data updates, interactive charts, data tables with search/filtering, and responsive design. Demonstrates advanced React patterns including hooks, context API, performance optimization, and professional UI/UX design.",
+  "homepage": "https://AbhiramLN.github.io/react-saas-analytics"
+}

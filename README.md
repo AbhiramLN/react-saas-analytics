@@ -28,11 +28,21 @@ src/
   hooks/
   utils/
 
-## ⚙️ Installation
-git clone <repo-link>
-cd project-name
-npm install
-npm start
-
 ## 🌐 Live Demo
-http://localhost:3000
+**🚀 View the live application**: https://AbhiramLN.github.io/react-saas-analytics
+
+## 🚀 Quick Start
+
+### Installation
+```bash
+# Clone the repository
+git clone https://github.com/AbhiramLN/react-saas-analytics.git
+
+# Navigate to project directory
+cd react-saas-analytics
+
+# Install dependencies
+npm install
+
+# Start development server
+npm start
