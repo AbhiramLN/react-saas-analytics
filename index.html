@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <link rel="icon" href="%PUBLIC_URL%/favicon.ico" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="theme-color" content="#000000" />
+    <meta name="description" content="SaaS Analytics Dashboard - Modern React application with advanced features" />
+    <title>SaaS Analytics Dashboard</title>
+  </head>
+  <body>
+    <noscript>You need to enable JavaScript to run this app.</noscript>
+    <div id="root"></div>
+    <script type="module" src="https://unpkg.com/react@18/umd/react.production.min.js"></script>
+    <script type="module" src="https://unpkg.com/react-dom@18/umd/react-dom.production.min.js"></script>
+    <script type="module" src="https://unpkg.com/react-router-dom@6/umd/react-router-dom.production.min.js"></script>
+    <script type="module" src="https://unpkg.com/recharts@2/umd/Recharts.js"></script>
+    <script>
+      window.addEventListener('DOMContentLoaded', function() {
+        const root = document.getElementById('root');
+        const App = window.React.createElement('div', { style: { padding: '20px', fontFamily: 'Arial' } }, 'SaaS Analytics Dashboard is loading...');
+        root.appendChild(App);
+      });
+    </script>
+  </body>
+</html>
